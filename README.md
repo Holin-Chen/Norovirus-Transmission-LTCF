@@ -16,7 +16,7 @@ For the regression analysis, we will first examine the associations between Ri a
 
 ## Main Results
 
-There is strong variation of the epicurves and Rt curves among different norovirus outbreaks. Some outbreaks have limited cases with short duration while some outbreaks contained a lot of cases with relatively long duration. The patterns of Rt curve are also different from different scales of outbreaks.
+There is strong variation of the epicurves and Rt curves among different norovirus outbreaks. Some outbreaks have limited cases with short durations while some outbreaks contained a lot of cases with relatively long durations. The patterns of Rt curve are also different from different scales of outbreaks.
 
 ![alt text](https://github.com/Holin-Chen/Norovirus-Transmission-LTCF/blob/main/plot%20outputs/p1.PNG) 
 ![alt text](https://github.com/Holin-Chen/Norovirus-Transmission-LTCF/blob/main/plot%20outputs/p2.PNG)
