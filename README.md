@@ -1,6 +1,6 @@
 # Quantifying the roles of vomiting, diarrhea, and resident vs. staff in norovirus transmission by studying norovirus outbreaks in 107 U.S. LTCFs
 
-*For the full contents of our research, please visit [our publishment on Epidemics]((https://www.sciencedirect.com/science/article/pii/S1755436523000075?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=271266087&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM335182&utm_source=AC_)).*
+*For the full contents of our research, please visit [our publishment on Epidemics](https://www.sciencedirect.com/science/article/pii/S1755436523000075?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=271266087&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM335182&utm_source=AC_).*
 
 ## Background
 Norovirus outbreaks are common in long term care facilities (LTCFs), where older LTCF residents experience an increased risk of severe illness and mortality, effective prevention and control measures are urgently needed. Current control measures are based on general infection control principles including ward closure, specific regimes and case isolation, however the efficacy of these measures in controlling norovirus is not well quantified. By examining transmission patterns and factors associated with increased transmissibility, we can facilitate progress on interventions aimed at reducing the burden of norovirus diseases in LTCFs. 
